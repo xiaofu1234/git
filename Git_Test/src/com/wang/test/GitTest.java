@@ -19,5 +19,8 @@ public class GitTest {
         System.out.println("hello ya git!");
     }
 
+    public void update(){
+        System.out.println("做了一些修改");
+    }
 
 }
